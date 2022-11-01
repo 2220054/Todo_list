@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Todo_list</string>
+    <string name="sinki">新規作成</string>
+    <string name="title">タイトルを入力してください</string>
+    <string name="complate">完了</string>
+    <string name="clear">クリア</string>
+    <string name="register">登録完了</string>
+    <string name="derete">削除</string>
+</resources>
